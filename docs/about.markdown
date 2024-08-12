@@ -8,4 +8,4 @@ I'm a PhD student in Sarah Hainer's lab at the University of Pittsburgh. I'm the
 
 Look at me, so cute: 
 
-<img width ="200" align = left id="profile" src = "/assets/rithika-pic.JPG"/>
+<img width ="200" align = left id="profile" src = "/rithika-pic.JPG"/>
