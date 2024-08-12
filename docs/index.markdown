@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+Hi! I'm Rithika Sankar. Welcome to my website. 
+
