@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Curriculum Vitae"
+date:   2024-08-12 
+categories: documents
+---
+
+
+Here is a link to my CV : [Rithika CV]()
