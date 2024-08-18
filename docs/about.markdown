@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a PhD student in Sarah Hainer's lab at the University of Pittsburgh. I'm the bestestestest!!!
+Hi everyone! It's nice to meet you. Thanks for visiting my page. I'm a 3rd year graduate student at the University of Pittsburgh. 
 
 Look at me, so cute: 
 
