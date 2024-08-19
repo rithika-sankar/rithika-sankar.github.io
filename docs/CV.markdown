@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Curriculum Viate
+title: CV
 permalink: /CV/
 ---
