@@ -10,3 +10,6 @@ A consequence of getting educated in a big city in a formerly colonised country 
 To bridge this gap, my department organised an event where we got to present something about our research or our subfield in our native language. I made a short video introducing stem cells and the ways they are used in research in Tamil. You can view it here: 
 
 [Stem cells in Tamil](https://drive.google.com/file/d/1MY4I8qMW_h16EkUx7AB9Ccg2KrblkHTp/view?usp=sharing)
+
+If you are interested in learning Tamil here are some resources: [LearnTamil](https://www.learntamil.com/)
+[Imaginetamil](https://www.imaginetamil.com/)
