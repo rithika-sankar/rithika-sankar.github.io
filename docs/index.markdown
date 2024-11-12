@@ -5,5 +5,5 @@
 layout: home
 ---
 
-Hi! I'm Rithika Sankar. Welcome to my website. 
+Hi! I'm Rithika Sankar. Welcome to my website! You will find a few sentences about myself here, my CV and some occasional blog posts about science. 
 
