@@ -4,7 +4,6 @@ title: Resume
 permalink: /Resume/
 ---
 
-
 **Rithika Sankar**  
 PhD Candidate in Integrative Systems Biology, School of Medicine  
 Department of Biological Sciences, University of Pittsburgh  
