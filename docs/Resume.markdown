@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Resume
-permalink: /CV/
+permalink: /Resume/
 ---
-# CURRICULUM VITAE
+
 
 **Rithika Sankar**  
 PhD Candidate in Integrative Systems Biology, School of Medicine  
